@@ -6,3 +6,5 @@
 	<li><b>deploy to heroku</b></li>
 	<li>or run localy via <b>npm start</b></li>
 </ul>
+
+[![ScreenShot](screenshot.png)](https://www.youtube.com/watch?v=Z7OG1tk5YT4)
