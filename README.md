@@ -1,5 +1,6 @@
 <h1>Facebook Chat Bot using API.AI</h1>
 <p>This Facebook ChatBot uses Node.js and API.ai integration for conversational AI through FB Messenger.</p>
+<p>If you have questions, contact jcoleman@dovico.com</p>
 <ul>
 	<li>Uses Heroku environment variables. you will need to set these.</li>
 	<li><b>npm install</b> after clone</li>
